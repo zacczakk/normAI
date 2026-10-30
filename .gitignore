@@ -5,3 +5,6 @@
 __pycache__
 *.pyc
 base_agent_old
+# pixi environments
+.pixi
+*.egg-info
